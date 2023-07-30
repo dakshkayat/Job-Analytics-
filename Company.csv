@@ -1,0 +1,238 @@
+Company_id,Name,Industry,Employees_count,Linkedin_followers
+CID-1,2COMS Consulting Pvt. Ltd., Human Resources Services,10001,"40,880"
+CID-2,AB InBev India, Manufacturing,10001,No_Data
+CID-3,AboitizPower Coal BU, IT Services and IT Consulting,5000,No_Data
+CID-4,Accenture in India, IT Services and IT Consulting,10001,"13,98,001"
+CID-5,AdTech Holding, IT Services and IT Consulting,201,No_Data
+CID-6,AirAsia, Airlines and Aviation,10001,"6,54,134"
+CID-7,Airport Authority Of India, Aviation and Aerospace Component Manufacturing,5001,"14,446"
+CID-8,airtel, Telecommunications,10001,"9,06,367"
+CID-9,Alstom, Rail Transportation,10001,"10,23,893"
+CID-10,Amazon," Technology, Information and Internet",10001,"2,75,30,986"
+CID-11,AMD, Semiconductor Manufacturing,10001,"9,31,958"
+CID-12,American Express, Financial Services,10001,"17,01,422"
+CID-13,Antal International, Staffing and Recruiting,1500,No_Data
+CID-14,ANZ, Banking,10001,No_Data
+CID-15,AppDeft, IT Services and IT Consulting,50,No_Data
+CID-16,Applicantz," Technology, Information and Internet",51,No_Data
+CID-17,Applied Materials, Semiconductor Manufacturing,10001,"3,25,023"
+CID-18,Armorblox, Software Development,51,No_Data
+CID-19,Audi Mumbai West, Motor Vehicle Manufacturing,200,No_Data
+CID-20,Bain & Company, IT Services and IT Consulting,10001,"14,85,122"
+CID-21,Bandhan Bank, Banking,10001,"3,93,298"
+CID-22,Barclays, Financial Services,10001,"12,50,343"
+CID-23,Barclays Corporate & Investment Bank, Financial Services,10001,"7,06,877"
+CID-24,BASF, Chemical Manufacturing,10001,"18,61,071"
+CID-25,Bayer, Chemical Manufacturing,10001,"45,08,113"
+CID-26,BD, Medical Equipment Manufacturing,10001,"7,04,233"
+CID-27,Bennett Coleman and Co. Ltd. (Times Group), Newspaper Publishing,5001,"2,20,320"
+CID-28,BharatPe, Financial Services,201,"1,03,678"
+CID-29,Binks, Retail Apparel and Fashion,10,"3,247"
+CID-30,BluSmart," Technology, Information and Media",51,"85,467"
+CID-31,BookMyShow, Entertainment Providers,1001,"83,646"
+CID-32,Bosch Global Software Technologies, IT Services and IT Consulting,10001,"7,91,332"
+CID-33,Bread Financial, Financial Services,5001,"69,776"
+CID-34,Brunel, Staffing and Recruiting,10001,"4,67,898"
+CID-35,Bunge Alimentos, Food and Beverage Manufacturing,5001,"3,325"
+CID-36,Bungee Tech, Software Development,11,"17,584"
+CID-37,Buoyancy Consultants, Shipbuilding,51,"4,640"
+CID-38,Burger Singh, Restaurants,51,"4,433"
+CID-39,Capgemini, IT Services and IT Consulting,10001,No_Data
+CID-40,Capita, IT Services and IT Consulting,10001,"2,75,672"
+CID-41,CarDekho, Internet Publishing,1001,"80,819"
+CID-42,Casa Dos Uniformes, Textile Manufacturing,51,14
+CID-43,Caterpillar Inc., Machinery Manufacturing,10001,"14,55,550"
+CID-44,CavinKare, Manufacturing,501,No_Data
+CID-45,Chubb, Insurance,10001,"6,15,036"
+CID-46,Cipla, Pharmaceutical Manufacturing,10001,No_Data
+CID-47,CITGO, Oil and Gas,1001,"53,903"
+CID-48,CloudMoyo, IT Services and IT Consulting,501,"64,766"
+CID-49,Colgate-Palmolive, Manufacturing,10001,"19,74,971"
+CID-50,Collins Aerospace, Aviation and Aerospace Component Manufacturing,10001,"4,99,034"
+CID-51,Costa Rica Malhas, Textile Manufacturing,1001,"5,659"
+CID-52,CPP Investments | Investissements RPC, Investment Management,1001,"2,11,627"
+CID-53,CRISIL Limited, Financial Services,1500,"4,21,933"
+CID-54,Culturelytics Pvt. Ltd, IT Services and IT Consulting,11,No_Data
+CID-55,Curve Tomorrow, IT Services and IT Consulting,11,"6,525"
+CID-56,Cvent," Technology, Information and Internet",1001,No_Data
+CID-57,Cyberium Inc, Internet Publishing,50,622
+CID-58,DBS Bank, Banking,10001,"7,62,686"
+CID-59,Delhivery," Transportation, Logistics, Supply Chain and Storage",10001,"5,16,947"
+CID-60,Dell Technologies, IT Services and IT Consulting,10001,"41,69,043"
+CID-61,Deloitte, Business Consulting and Services,10001,"1,06,38,787"
+CID-62,DIAGEO India, Manufacturing,1000,"2,11,479"
+CID-63,Dunzo," Technology, Information and Internet",200,"2,39,820"
+CID-64,EaseMyTrip.com, Travel Arrangements,200,No_Data
+CID-65,Eaton," Appliances, Electrical, and Electronics Manufacturing",10001,"12,41,805"
+CID-66,ElasticRun," Technology, Information and Internet",1000,"45,173"
+CID-67,Ellucian, Higher Education,1000,No_Data
+CID-68,Eloelo," Technology, Information and Internet",10,No_Data
+CID-69,Everstage, Software Development,10,"7,548"
+CID-70,EY, Accounting,10001,"66,50,151"
+CID-71,Falabella India, IT Services and IT Consulting,50,No_Data
+CID-72,Fintech, Financial Services,50,No_Data
+CID-73,Firstcry.com," Appliances, Electrical, and Electronics Manufacturing",50,"23,503"
+CID-74,FirstCry.com (BrainBees Solutions Pvt. Ltd.), Retail,5000,"49,211"
+CID-75,FlexC, Human Resources Services,11,No_Data
+CID-76,Flipkart," Technology, Information and Internet",10001,"29,10,213"
+CID-77,Fortgreen, Farming,51,"41,610"
+CID-78,freshOk, IT Services and IT Consulting,11,No_Data
+CID-79,G10 Transportes, Truck Transportation,1000,"24,963"
+CID-80,Games24x7," Technology, Information and Internet",500,No_Data
+CID-81,Giant Eagle GCC, IT Services and IT Consulting,50,No_Data
+CID-82,Godrej Infotech Ltd, IT Services and IT Consulting,500,"22,799"
+CID-83,GOVERNMENT OF RAJASTHAN, Financial Services,500,"1,951"
+CID-84,grofers," Technology, Information and Internet",1000,No_Data
+CID-85,Groupon," Technology, Information and Internet",1000,"3,39,523"
+CID-86,Grupo Copobras, Plastics Manufacturing,1000,"10,279"
+CID-87,Grupo Elfa, Health and Human Services,1000,"42,681"
+CID-88,Grupo Muffato, Retail,10001,"62,734"
+CID-89,GTFoods Group, Food and Beverage Manufacturing,10001,"38,816"
+CID-90,HealthKart," Technology, Information and Internet",500,"1,08,627"
+CID-91,Hershey India, Manufacturing,5000,No_Data
+CID-92,Hewlett Packard Enterprise, IT Services and IT Consulting,10001,No_Data
+CID-93,Honeywell," Appliances, Electrical, and Electronics Manufacturing",10001,"22,20,804"
+CID-94,HP, IT Services and IT Consulting,10001,"51,00,806"
+CID-95,HSBC, Financial Services,10001,"30,43,622"
+CID-96,Hummer Do Brasil, Medical Equipment Manufacturing,20,38
+CID-97,HuntingCube Recruitment Solutions, Human Resources Services,200,"59,641"
+CID-98,Huron, Business Consulting and Services,1001,"1,07,595"
+CID-99,Hyundai MOBIS, Motor Vehicle Manufacturing,10001,"44,883"
+CID-100,i4 HR Consulting : Reimagining HR Blueprints, Human Resources Services,50,"7,884"
+CID-101,IBM, IT Services and IT Consulting,10001,No_Data
+CID-102,IDFC FIRST Bank, Banking,10001,"8,20,182"
+CID-103,In Time Tec, Software Development,501,"29,135"
+CID-104,IndiGo (InterGlobe Aviation Ltd), Airlines and Aviation,10001,"3,65,149"
+CID-105,IndusInd Bank, Banking,10001,"9,08,643"
+CID-106,Infoparks Kerala, IT Services and IT Consulting,10001,"47,949"
+CID-107,Infosys, IT Services and IT Consulting,10001,"60,67,023"
+CID-108,Intel Corporation, Semiconductor Manufacturing,10001,"30,62,020"
+CID-109,InterCement Brasil, Wholesale Building Materials,1001,"9,179"
+CID-110,Intuit, Software Development,10001,"4,82,883"
+CID-111,IQVIA, Hospitals and Health Care,10001,"14,47,796"
+CID-112,ISG (Information Services Group), Information Services,1001,No_Data
+CID-113,Isprava, Real Estate,50,"13,668"
+CID-114,Jio, Telecommunications,10001,"8,00,627"
+CID-115,JLL, Real Estate,10001,"15,42,172"
+CID-116,Johnson & Johnson, Hospitals and Health Care,10001,"79,89,574"
+CID-117,Johnson Controls, Industrial Machinery Manufacturing,10001,"11,48,664"
+CID-118,Kennametal, Machinery Manufacturing,10001,No_Data
+CID-119,Kotak Mahindra Bank, IT Services and IT Consulting,10001,No_Data
+CID-120,KPMG India, Business Consulting and Services,10001,"12,94,866"
+CID-121,LeadSquared, Software Development,1000,No_Data
+CID-122,Licious, Food and Beverage Services,1000,No_Data
+CID-123,LTI - Larsen & Toubro Infotech, IT Services and IT Consulting,10001,No_Data
+CID-124,LVMH, Retail Luxury Goods and Jewelry,10001,No_Data
+CID-125,Magicbricks, Real Estate,500,No_Data
+CID-126,Mahindra Group, Executive Offices,10001,"9,97,650"
+CID-127,Mahindra Holidays & Resorts India Limited, Hospitality,10001,No_Data
+CID-128,MakeMyTrip," Technology, Information and Internet",1000,No_Data
+CID-129,Manipal Hospitals, Hospitals and Health Care,10001,"12,510"
+CID-130,Maruti Suzuki India Limited, Motor Vehicle Manufacturing,10001,No_Data
+CID-131,Mastercard, IT Services and IT Consulting,10001,"10,95,576"
+CID-132,Mekari, IT Services and IT Consulting,1000,"24,250"
+CID-133,Michael Page, Staffing and Recruiting,5000,"30,07,014"
+CID-134,Microsoft, Software Development,10001,"1,77,68,681"
+CID-135,Milestone Inc, Advertising Services,200,No_Data
+CID-136,Millennium IMS Private Limited, IT Services and IT Consulting,50,No_Data
+CID-137,Mindtree, IT Services and IT Consulting,10001,"13,87,841"
+CID-138,Mobile Premier League (MPL)," Technology, Information and Internet",1000,No_Data
+CID-139,Moda Fashion, Manufacturing,10,173
+CID-140,MS Consultoria, Business Consulting and Services,10,175
+CID-141,MSD, Pharmaceutical Manufacturing,10001,No_Data
+CID-142,Myntra," Technology, Information and Internet",1001,"10,78,383"
+CID-143,NA, IT Services and IT Consulting,51,809
+CID-144,NatWest Group, Banking,10001,No_Data
+CID-145,Nestlé, Food and Beverage Services,10001,No_Data
+CID-146,Netradyne, IT Services and IT Consulting,500,No_Data
+CID-147,Next Labs," Technology, Information and Internet",50,"12,408"
+CID-148,Nineleaps, IT Services and IT Consulting,200,No_Data
+CID-149,Niswey, Advertising Services,20,"4,246"
+CID-150,Noise, Computers and Electronics Manufacturing,50,"32,447"
+CID-151,Nykaa," Technology, Information and Internet",1000,"3,24,514"
+CID-152,Odiware, IT Services and IT Consulting,50,No_Data
+CID-153,Oil and Gas, Oil and Gas,10,"3,85,507"
+CID-154,Onqanet Technologies Pvt. Ltd., IT Services and IT Consulting,50,809
+CID-155,Part Time Jobs Base, IT Services and IT Consulting,10,No_Data
+CID-156,Paytm, Financial Services,10001,"10,44,505"
+CID-157,Paytm Money, Investment Management,200,"50,813"
+CID-158,PharmEasy, Wellness and Fitness Services,1000,"1,23,937"
+CID-159,Philip Morris International, Tobacco Manufacturing,10001,"10,26,929"
+CID-160,Philips, Hospitals and Health Care,10001,"21,21,485"
+CID-161,PhonePe," Technology, Information and Internet",1000,"4,71,411"
+CID-162,Pidilite Industries Limited, Manufacturing,1000,"3,89,663"
+CID-163,Procter & Gamble, Manufacturing,10001,"70,39,109"
+CID-164,Purplle.com," Technology, Information and Internet",500,No_Data
+CID-165,PwC Acceleration Centers, Professional Services,10001,No_Data
+CID-166,PwC India, Business Consulting and Services,5000,"7,95,880"
+CID-167,Ramboll, Civil Engineering,10001,No_Data
+CID-168,Randstad India, Human Resources Services,1000,No_Data
+CID-169,Razorpay, Software Development,1000,"4,14,677"
+CID-170,Reckitt, Manufacturing,10001,No_Data
+CID-171,Refriko Indústria de Bebidas, Food and Beverage Services,5000,"17,898"
+CID-172,Republic World, Broadcast Media Production and Distribution,1000,"1,11,937"
+CID-173,Reputed financial company, Banking,10001,No_Data
+CID-174,ResultPubli, Advertising Services,50,"1,587"
+CID-175,RHF Talentos, Human Resources Services,51,"99,709"
+CID-176,RK HR Management Private Limited, Staffing and Recruiting,51,"10,824"
+CID-177,Rolls-Royce, Industrial Machinery Manufacturing,10001,"11,66,522"
+CID-178,Rootbridge, Fundraising,51,"1,638"
+CID-179,Saara Inc, Software Development,11,No_Data
+CID-180,Salesforce, Software Development,10001,"39,17,830"
+CID-181,Samsung India, Computers and Electronics Manufacturing,10001,"1,15,420"
+CID-182,SAP, Software Development,10001,"29,82,774"
+CID-183,Sarthee Consultancy, Human Resources Services,51,"33,025"
+CID-184,Schindler Group, Transportation Equipment Manufacturing,10001,"2,43,372"
+CID-185,Schneider Electric," Appliances, Electrical, and Electronics Manufacturing",10001,"33,37,010"
+CID-186,SEPHORA, Retail,10001,No_Data
+CID-187,ShareChat," Technology, Information and Internet",1000,No_Data
+CID-188,SHIELD, IT Services and IT Consulting,50,"46,601"
+CID-189,Siemens, Automation Machinery Manufacturing,10001,No_Data
+CID-190,Simplify360, IT Services and IT Consulting,50,"8,544"
+CID-191,Sizzle, Entertainment Providers,10,"1,314"
+CID-192,Skan.ai, Software Development,50,No_Data
+CID-193,Smiles.ai, Wellness and Fitness Services,200,No_Data
+CID-194,Sony Music Entertainment, Musicians,1000,No_Data
+CID-195,Soroco, Software Development,201,No_Data
+CID-196,SORRIDENTS FRANCHISING, Wellness and Fitness Services,500,"15,464"
+CID-197,Standard Chartered Bank, Banking,10001,"17,40,440"
+CID-198,Starbucks India, Retail,1000,"87,662"
+CID-199,State Street, Financial Services,10001,"4,35,775"
+CID-200,Stealth Startup, IT Services and IT Consulting,11,No_Data
+CID-201,Sunstone, Higher Education,501,"21,549"
+CID-202,Swiggy," Technology, Information and Internet",1001,"11,24,679"
+CID-203,Swiss Re, Insurance,10001,"3,88,415"
+CID-204,Target, Retail,10001,"15,55,946"
+CID-205,Taskmo, IT Services and IT Consulting,51,No_Data
+CID-206,Tata Consultancy Services, IT Services and IT Consulting,10001,No_Data
+CID-207,Tata Steel, Mining,10001,No_Data
+CID-208,Tata Trusts, Non-profit Organizations,201,"1,23,846"
+CID-209,TE Connectivity," Appliances, Electrical, and Electronics Manufacturing",10001,No_Data
+CID-210,The Coca-Cola Company, Food and Beverage Services,10001,"69,49,275"
+CID-211,The Hershey Company, Manufacturing,10001,"3,07,927"
+CID-212,The Parentinc, Consumer Services,201,"31,964"
+CID-213,The Phoenix Mills Ltd., Real Estate,501,"20,309"
+CID-214,"The Ritz-Carlton Hotel Company, L.L.C.", Hospitality,10001,"6,15,791"
+CID-215,The Walt Disney Company, Entertainment Providers,10001,"51,91,612"
+CID-216,Thermo Fisher Scientific, Biotechnology Research,10001,No_Data
+CID-217,TransUnion, IT Services and IT Consulting,5001,"2,77,310"
+CID-218,UBS, Financial Services,10001,"12,04,720"
+CID-219,Unilever, Manufacturing,10001,"1,79,09,484"
+CID-220,Unimed, Wellness and Fitness Services,10001,"4,29,438"
+CID-221,UpScalio," Technology, Information and Internet",51,"13,115"
+CID-222,Urban Company," Technology, Information and Internet",1001,No_Data
+CID-223,UST, IT Services and IT Consulting,10001,No_Data
+CID-224,vedanta, IT Services and IT Consulting,10001,No_Data
+CID-225,Vedantu, E-Learning Providers,5001,No_Data
+CID-226,Viacom18 Media Private Limited, Broadcast Media Production and Distribution,1001,No_Data
+CID-227,Volvo Cars, Motor Vehicle Manufacturing,10001,"5,97,357"
+CID-228,Volvo Group, Motor Vehicle Manufacturing,10001,No_Data
+CID-229,Walmart Global Tech India, IT Services and IT Consulting,5001,No_Data
+CID-230,Westin Hotels & Resorts, Hospitality,5001,No_Data
+CID-231,Wipro, IT Services and IT Consulting,10001,"60,68,496"
+CID-232,Wolffkraft® - Strategy & Design Studio, IT Services and IT Consulting,11,No_Data
+CID-233,Work From Home/Fresher Jobs - Remote Work, IT Services and IT Consulting,201,No_Data
+CID-234,Xiaomi India," Technology, Information and Internet",501,"1,86,632"
+CID-235,YouGov, Market Research,1001,"3,33,462"
+CID-236,Zepto," Technology, Information and Internet",51,"93,391"
+CID-237,Zummit Infolabs, IT Services and IT Consulting,51,No_Data

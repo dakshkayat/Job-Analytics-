@@ -1,0 +1,361 @@
+Job_id,Company_id,Location,Designation,Details_id
+JID-1,CID-1,Hyderabad,Customer Support Semi Voice - Hyderabad,DID-221
+JID-2,CID-1,Kolkata,Virtual Assistant(Freelance),DID-322
+JID-3,CID-2,Mumbai,Trade Marketing Manager - Adjacencies,DID-123
+JID-4,CID-3,Baddi,Online work for freshers,DID-123
+JID-5,CID-4,Chennai,IBM Cognos TM1 Application Lead,DID-124
+JID-6,CID-4,Bangalore,Microservices and Light Weight Architecture Application Developer,DID-123
+JID-7,CID-4,Gurgaon,New Associate-Creative Services,DID-123
+JID-8,CID-4,Gurgaon,New Associate-Procurement management,DID-123
+JID-9,CID-4,Mumbai,Senior Analyst-Reporting,DID-125
+JID-10,CID-4,Chennai,Spring Boot Application Developer,DID-123
+JID-11,CID-5,Bangalore,Data Analyst,DID-123
+JID-12,CID-6,Delhi,Marketing Manager,DID-123
+JID-13,CID-7,New Delhi,Ground Staff,DID-426
+JID-14,CID-8,Gurgaon,Campaign Manager - Growth Marketing,DID-423
+JID-15,CID-9,Bangalore,Procurement Manager,DID-427
+JID-16,CID-10,Mumbai,Digital Marketing Manager,DID-123
+JID-17,CID-10,Bangalore,Front End Engineer,DID-123
+JID-18,CID-10,Bangalore,Front End Engineer I,DID-123
+JID-19,CID-10,Bangalore,"Front End Engineer, Selection Monitoring",DID-523
+JID-20,CID-11,Hyderabad,Sr. Software Development Engineer(180573),DID-128
+JID-21,CID-12,Bangalore,Analyst-Data Science,DID-123
+JID-22,CID-12,Gurgaon,Assistant Manager - Marketing,DID-129
+JID-23,CID-13,Bangalore,UI Developer,DID-123
+JID-24,CID-14,Bangalore,Data Analyst,DID-123
+JID-25,CID-15,Sahibzada Ajit Singh Nagar,Junior Business Analyst,DID-223
+JID-26,CID-16,Bangalore,Data Analyst,DID-123
+JID-27,CID-17,Bangalore,Manufacturing Engineer,DID-124
+JID-28,CID-18,Bangalore,Jr. Data Analyst,DID-123
+JID-29,CID-19,Mumbai,Digital Marketing Internship in Mumbai at Audi Mumbai West,DID-123
+JID-30,CID-19,Mumbai,Marketing Internship in Mumbai at Audi Mumbai West,DID-123
+JID-31,CID-20,Gurgaon,Goa Institute Of Management - Summer Associate (Batch of 2024),DID-1210
+JID-32,CID-20,Gurgaon,Marketing Manager,DID-1211
+JID-33,CID-20,Gurgaon,Summer Associate-IIM Shillong [PGDM Batch 2024],DID-1212
+JID-34,CID-20,Gurgaon,Summer Associate-IIM Visakhapatnam [PGDM Batch 2024],DID-2211
+JID-35,CID-21,Raniganj,Bandhan Bank Back office executive Jobs - Kolkata,DID-1213
+JID-36,CID-21,Raniganj,Bandhan Bank Hiring for Accounts Opening Department,DID-1214
+JID-37,CID-21,Kolkata,RECRUITMENT BANDHAN BANK LIMITED,DID-1215
+JID-38,CID-22,Pune,Business Analyst,DID-1216
+JID-39,CID-23,Bangalore,Private Banking Executive,DID-1211
+JID-40,CID-24,Navi Mumbai,Chemical Engineer - Trainee/Intern,DID-123
+JID-41,CID-25,Bangalore,Project Manager,DID-1217
+JID-42,CID-26,Gurgaon,"Sr. Manager, Facilities and Administration",DID-123
+JID-43,CID-27,Nagpur,Electrical Maintenance Engineer,DID-1218
+JID-44,CID-28,Gurgaon,Manager - Growth,DID-1219
+JID-45,CID-29,Bangalore,Junior Content Writer,DID-1220
+JID-46,CID-30,Gurgaon,Sr. Executive Operations -Public Charging,DID-1221
+JID-47,CID-31,Mumbai,Senior Manager - Retail Alliance,DID-1216
+JID-48,CID-32,Bangalore,Order to cash and receivable management,DID-125
+JID-49,CID-33,Bangalore,"Data Analyst, 2",DID-1222
+JID-50,CID-34,Barmer,Field HSE Supervisor,DID-1212
+JID-51,CID-35,Imamganj,Auxiliar de Almoxarifado,DID-123
+JID-52,CID-36,Baddi,Operations Associate,DID-123
+JID-53,CID-37,Panaji,Executive - Admin,DID-1216
+JID-54,CID-38,Gurgaon,Burger Singh - Project Manager,DID-1223
+JID-55,CID-39,Bangalore,Frontend Developer,DID-123
+JID-56,CID-40,Mumbai,Executive - Customer Services (Webchat),DID-1224
+JID-57,CID-41,Agra,Relationship Manager,DID-1222
+JID-58,CID-42,Kalyanpur,Estoquista,DID-123
+JID-59,CID-43,Hosur,Supply Chain Manager 1,DID-1225
+JID-60,CID-44,Mumbai,Senior Brand Manager/Brand Manager,DID-123
+JID-61,CID-45,Bangalore,Data Analyst,DID-1226
+JID-62,CID-46,Mumbai,Team Member- CI,DID-123
+JID-63,CID-47,Gariaband,Customer Service Specialist,DID-123
+JID-64,CID-48,Pune,Quick Fix Developer,DID-123
+JID-65,CID-49,Mumbai,E-Commerce Customer Supply Chain Manager,DID-1227
+JID-66,CID-50,Hyderabad,Senior Lead Engineer,DID-1223
+JID-67,CID-51,Kalyanpur,Gerente Comercial,DID-1223
+JID-68,CID-51,Kalyanpur,Vendedor Interno,DID-123
+JID-69,CID-52,Mumbai,"Analyst, Private Equity Asia, India",DID-1228
+JID-70,CID-53,Chennai,CA Fresher- Equity Research- Immediate Joiners required -Chennai,DID-1216
+JID-71,CID-54,Bangalore,Data Analyst,DID-123
+JID-72,CID-55,Mumbai,HR Generalist,DID-1213
+JID-73,CID-56,Gurgaon,"Research Associate, Tradeshow Operations (Contract)",DID-123
+JID-74,CID-57,Pune,Data/Research/Business Analyst,DID-1229
+JID-75,CID-58,Noida ,"Relationship Manager, IBG4",DID-123
+JID-76,CID-58,Mumbai,Specialist - Marketing and Communication,DID-1222
+JID-77,CID-59,Bangalore,Associate,DID-1230
+JID-78,CID-59,Gurgaon,Associate,DID-123
+JID-79,CID-59,Gurgaon,Associate,DID-123
+JID-80,CID-60,Pune,Software Engineer 1,DID-121
+JID-81,CID-61,Hyderabad,Talent Customer Interaction Center - Analyst,DID-2231
+JID-82,CID-62,Bangalore,Analyst - OTC,DID-1210
+JID-83,CID-62,Kolkata,Assistant Manager - Customer Marketing,DID-123
+JID-84,CID-62,Chandigarh,Assistant Manager- Trade Marketing,DID-123
+JID-85,CID-63,Hyderabad,Associate - General Admin,DID-128
+JID-86,CID-63,Bangalore,Demand Associate (BTL Marketing),DID-123
+JID-87,CID-64,Noida,Travel Consultant-Audit Cancellation,DID-123
+JID-88,CID-65,Bangalore,Manufacturing Engineer,DID-1211
+JID-89,CID-66,Mumbai,Category Manager,DID-1232
+JID-90,CID-66,Shivamogga,Manager Fulfillment Centre - Gorakhpur,DID-1216
+JID-91,CID-67,Bangalore,Software Engineer,DID-123
+JID-92,CID-68,Bangalore,Data Analyst,DID-123
+JID-93,CID-69,Coimbatore,QA Manager (Remote),DID-123
+JID-94,CID-70,Bangalore,Business Management Analyst,DID-1223
+JID-95,CID-71,Bangalore,Associate - Employer Branding,DID-1233
+JID-96,CID-72,Bangalore,Data Analyst,DID-123
+JID-97,CID-73,Pune,Firstcry.com - Manager - Social Media,DID-1216
+JID-98,CID-73,Pune,Firstcry.com - Merchandiser - eCommerce Vertical,DID-1227
+JID-99,CID-74,Pune,Firstcry.com - Manager - Social Media,DID-1234
+JID-100,CID-75,Bangalore,Frontend Developer,DID-123
+JID-101,CID-76,Bangalore,UI Engineer II,DID-123
+JID-102,CID-76,Bangalore,User Experience Designer,DID-123
+JID-103,CID-77,Imamganj,Estagirio Administrativo - Logstica,DID-123
+JID-104,CID-78,Gurgaon,Warehouse Incharge,DID-123
+JID-105,CID-79,Kalyanpur,Auxiliar de Recursos Humanos,DID-123
+JID-106,CID-79,Kalyanpur,Auxiliar de Regulao de Sinistro,DID-1222
+JID-107,CID-80,Bangalore,Data Analyst,DID-123
+JID-108,CID-81,Bangalore,Data Analyst - SQL & Python,DID-123
+JID-109,CID-81,Bangalore,Data Analyst (SQL),DID-123
+JID-110,CID-81,Bangalore,SQL (Data Analyst),DID-123
+JID-111,CID-82,Mumbai,Talent Acquisition,DID-1212
+JID-112,CID-83,Ajmer,Data Analyst (SQL),DID-323
+JID-113,CID-84,Bangalore,Data Analyst,DID-123
+JID-114,CID-85,Bangalore,Software Development Engineer IV,DID-124
+JID-115,CID-86,Kalyanpur,Auxiliar de Produo,DID-123
+JID-116,CID-87,Imamganj,Gerente de E-commerce,DID-123
+JID-117,CID-88,Imamganj,Assistente Administrativo - Camb,DID-1222
+JID-118,CID-88,Imamganj,Assistente de Marketing-031CAMBE,DID-123
+JID-119,CID-89,Kalyanpur,Analista de Exportacao Junior,DID-123
+JID-120,CID-89,Kalyanpur,Analista de Planejamento Jr - Adm Industria,DID-3222
+JID-121,CID-89,Imamganj,Assistente Administrativo,DID-3212
+JID-122,CID-89,Kalyanpur,Assistente de Logstica II,DID-123
+JID-123,CID-89,Kalyanpur,Auxiliar Administrativo - T.i,DID-123
+JID-124,CID-89,Kalyanpur,Auxiliar de Servios Gerais,DID-123
+JID-125,CID-89,Kalyanpur,Lder de Setor fbrica de Farinha - Indstria,DID-123
+JID-126,CID-89,Imamganj,Lder de Setor Recria de Matrizes,DID-123
+JID-127,CID-90,Gurgaon,Assistant Brand Manager,DID-123
+JID-128,CID-91,Mumbai,Brand Manager,DID-123
+JID-129,CID-92,Bangalore,Data Analyst,DID-123
+JID-130,CID-92,Bangalore,Software Developer : UI/Full Stack,DID-123
+JID-131,CID-93,Pune,Customer Service Executive,DID-123
+JID-132,CID-93,Bangalore,Procurement Buyer I,DID-1235
+JID-133,CID-94,Bangalore,Data Analyst,DID-123
+JID-134,CID-94,Bangalore,Financial Analyst,DID-1236
+JID-135,CID-94,Bangalore,Financial Analyst-Financial Planning and Analysis,DID-1237
+JID-136,CID-94,Bangalore,Financial Associate,DID-123
+JID-137,CID-94,Bangalore,Marketing Manager,DID-123
+JID-138,CID-95,Hyderabad,Human Resources Consultant,DID-1238
+JID-139,CID-96,Kalyanpur,Assistente Administrativo - Agendamentos,DID-123
+JID-140,CID-97,Bangalore,Data Analyst,DID-1239
+JID-141,CID-98,Bangalore,Sr.Software Engineer-Click,DID-123
+JID-142,CID-99,Hyderabad,Management Trainee - HR,DID-128
+JID-143,CID-100,Mumbai,Executive Assistant - CEO,DID-1240
+JID-144,CID-100,Bangalore,Head of Brand and Content Marketing,DID-1241
+JID-145,CID-101,Bangalore,Application Developer: Experience Front End,DID-123
+JID-146,CID-101,Bangalore,UI Developer,DID-123
+JID-147,CID-102,Thane,Analyst-Liabilities Operations,DID-123
+JID-148,CID-102,Chandigarh,Associate Manager-Acquisition (Household),DID-127
+JID-149,CID-102,Chandigarh,Associate Manager-Acquisition (Household),DID-123
+JID-150,CID-102,Jaipur,Banker-Customer Experience,DID-1212
+JID-151,CID-103,Bangalore,Manual Tester- (For Night Shift),DID-123
+JID-152,CID-104,Gurgaon,AD/D Business Development,DID-123
+JID-153,CID-104,Gurgaon,Analyst - Revenue Planning and Analysis,DID-123
+JID-154,CID-104,Gurgaon,Assistant Manager-Customer Relations,DID-123
+JID-155,CID-104,Gurgaon,Consultant - Communication Training,DID-123
+JID-156,CID-104,Gurgaon,Consultant - Social Media,DID-1242
+JID-157,CID-104,Gurgaon,Executive - (I Connect ) Line Operations,DID-1243
+JID-158,CID-104,Gurgaon,Executive - Invoicing,DID-123
+JID-159,CID-104,Gurgaon,Executive Crew Planning,DID-123
+JID-160,CID-104,Delhi,Officer - Customer Service/ Ramp/ Security / Cargo,DID-1219
+JID-161,CID-104,Gurgaon,Senior Executive - Digital Marketing,DID-1244
+JID-162,CID-104,Gurgaon,Senior Executive Internal Communications Specialist,DID-123
+JID-163,CID-105,Gurgaon,Growth Manager - Content Strategy / Marketing,DID-123
+JID-164,CID-105,Gurgaon,Manager – Digital & Social Media Marketing,DID-123
+JID-165,CID-106,Kochi,Jr. Digital Marketing Executive( Ecommerce)- Work from Home,DID-1245
+JID-166,CID-107,Bangalore,Associate Marketing Manager,DID-1246
+JID-167,CID-107,Bangalore,Frontend Developer,DID-123
+JID-168,CID-107,Bangalore,Marketing Consultant,DID-123
+JID-169,CID-108,Bangalore,Graduate Intern,DID-1247
+JID-170,CID-109,Imamganj,Representante Comercial - Oeste PR,DID-123
+JID-171,CID-110,Noida ,Senior Software Engineer - Frontend,DID-123
+JID-172,CID-110,Noida ,Software Engineer II - Frontend,DID-173
+JID-173,CID-111,Bangalore,Analyst,DID-1748
+JID-174,CID-111,Bangalore,Data Analyst,DID-173
+JID-175,CID-112,Bangalore,Data Analyst (AI/ML) - Analyst,DID-143
+JID-176,CID-113,Goa,Isprava - Project Director,DID-1435
+JID-177,CID-114,Bangalore,Frontend Developer,DID-143
+JID-178,CID-115,Bangalore,Data Analyst,DID-143
+JID-179,CID-116,Pune,Key Account Manager,DID-1414
+JID-180,CID-117,Mumbai,Graduate Engineering Trainee,DID-243
+JID-181,CID-117,Pune,Graduate Engineering Trainee,DID-1449
+JID-182,CID-118,Bangalore,Analyst Data Analytics,DID-143
+JID-183,CID-119,Thane,Customer Service Executive,DID-143
+JID-184,CID-120,Gurgaon,Analyst,DID-143
+JID-185,CID-120,Gurgaon,Executive,DID-143
+JID-186,CID-120,Mumbai ,Executive-Marketing Compliance,DID-143
+JID-187,CID-120,Mumbai,Vendor Onboarding - Analyst,DID-143
+JID-188,CID-121,Bangalore,Data Analyst,DID-143
+JID-189,CID-122,Bangalore,Assistant Manager - Growth Marketing,DID-143
+JID-190,CID-122,Bangalore,Category Manager – Fresh Category,DID-143
+JID-191,CID-123,Bangalore,Frontend Developer,DID-143
+JID-192,CID-124,Bangalore,Junior Software Engineer,DID-543
+JID-193,CID-125,Noida,Brand Manager,DID-143
+JID-194,CID-126,Hyderabad,Graduate Apprentice Trainee,DID-1450
+JID-195,CID-126,Mumbai ,Manager- Capacity Planning (DAC),DID-1423
+JID-196,CID-127,Puducherry,Marketing Manager,DID-143
+JID-197,CID-128,Gurgaon,AM - Brand Marketing,DID-643
+JID-198,CID-129,Pune,Executive,DID-143
+JID-199,CID-130,Gurgaon,Assistant/Deputy Manager - Quality Planning,DID-143
+JID-200,CID-130,Gurgaon,Buyer - Automotive Accessories,DID-143
+JID-201,CID-130,Gurgaon,HRBP - R&D/Engineering HR,DID-143
+JID-202,CID-130,Gurgaon,Material Planning (Export/Import) and Inventoy Control,DID-143
+JID-203,CID-131,Mumbai,"Associate Analyst, Marketing",DID-1451
+JID-204,CID-132,Gurgaon,Product Manager (India),DID-145
+JID-205,CID-133,Delhi,Head External Relations India & ME,DID-145
+JID-206,CID-134,Hyderabad,Business Analyst,DID-143
+JID-207,CID-134,Delhi,Product Manager Full Time Opportunity for University Graduates,DID-1452
+JID-208,CID-134,Goa,Product Manager Full Time Opportunity for University Graduates,DID-148
+JID-209,CID-134,Haryana,Product Manager Full Time Opportunity for University Graduates,DID-144
+JID-210,CID-134,Karnataka,Product Manager Full Time Opportunity for University Graduates,DID-1435
+JID-211,CID-134,Uttar Pradesh,Product Manager Full Time Opportunity for University Graduates,DID-144
+JID-212,CID-134,Karnataka,Product Manager Internship Opportunity for University Graduates,DID-145
+JID-213,CID-134,Uttar Pradesh,Product Manager Internship Opportunity for University Graduates,DID-1412
+JID-214,CID-134,West Bengal,Product Manager Internship Opportunity for University Graduates,DID-1447
+JID-215,CID-135,Bangalore,Data Analyst,DID-143
+JID-216,CID-136,Bangalore,Junior Data Analyst,DID-143
+JID-217,CID-137,Bangalore,Digital Marketing,DID-143
+JID-218,CID-138,Bangalore,Assistant Brand Manager Marketing,DID-143
+JID-219,CID-139,Kalyanpur,Analista Financeiro,DID-143
+JID-220,CID-139,Kalyanpur,Assistente Financeiro,DID-143
+JID-221,CID-140,Imamganj,Assistente Administrativo - Estoque,DID-1422
+JID-222,CID-141,Gurgaon,Plant Buyer,DID-143
+JID-223,CID-142,Bangalore,Deputy Director - Marketing,DID-143
+JID-224,CID-142,Bangalore,Senior Manager - Digital Marketing,DID-143
+JID-225,CID-143,Bangalore,Marketing Manager,DID-1453
+JID-226,CID-144,Gurgaon,Customer Service & Operations Analyst,DID-143
+JID-227,CID-144,Bangalore,Data & Analytics Analyst,DID-143
+JID-228,CID-145,Gurgaon,Sales Officer,DID-143
+JID-229,CID-146,Bangalore,Data Analyst,DID-143
+JID-230,CID-147,Bangalore,Data Analyst,DID-143
+JID-231,CID-147,Bangalore,Data Analyst,DID-143
+JID-232,CID-148,Bangalore,Data Analyst,DID-143
+JID-233,CID-149,Faridabad,Head of Customer Success,DID-1426
+JID-234,CID-150,Gurgaon,Category Manager - New Business -,DID-145
+JID-235,CID-151,Mumbai,Sr. Manager - Content Marketing,DID-143
+JID-236,CID-152,Bangalore,UX/UI Architect/Lead,DID-143
+JID-237,CID-153,Delhi,STORE KEEPER,DID-1416
+JID-238,CID-154,Bangalore,Warehouse Executive,DID-1453
+JID-239,CID-154,Hyderabad,Warehouse Executive,DID-1453
+JID-240,CID-155,Delhi,Student,DID-143
+JID-241,CID-156,Noida,Growth Management - Manager - Paytm Bank,DID-1454
+JID-242,CID-156,Noida,Product Marketing - Vice President - UPI,DID-1426
+JID-243,CID-157,Bangalore,Data Scientist - Software Engineer,DID-143
+JID-244,CID-157,Bangalore,Data Scientist - Software Engineer,DID-143
+JID-245,CID-158,Mumbai,Pharmeasy - Manager - Growth Marketing,DID-1445
+JID-246,CID-159,New Delhi,Assistant Brand Manager,DID-1429
+JID-247,CID-160,Gurgaon,Summer Intern-HR,DID-143
+JID-248,CID-161,Bangalore,Lead - Offline Media (Brand Marketing),DID-143
+JID-249,CID-162,Bangalore,Assistant Manager - Accounts,DID-2440
+JID-250,CID-162,Mumbai,Executive - Mechandising,DID-1455
+JID-251,CID-162,Kolkata,Regional Customer Manager,DID-149
+JID-252,CID-162,Delhi,Regional Logistics & Accounts Manager,DID-1456
+JID-253,CID-163,Mumbai,Summer Internship - Brand,DID-145
+JID-254,CID-163,Mumbai,Summer Internship - Brand,DID-143
+JID-255,CID-163,Mumbai,Summer Internship - Finance & Accounting,DID-143
+JID-256,CID-163,Mumbai,Summer Internship - Information Technology,DID-1457
+JID-257,CID-163,Gurgaon,Summer Internship - Sales,DID-1458
+JID-258,CID-164,Mumbai,Manager – Brand Content and Communications,DID-143
+JID-259,CID-165,Bangalore,Data Analyst,DID-143
+JID-260,CID-166,Delhi,Associate,DID-143
+JID-261,CID-166,Hyderabad,Associate,DID-1459
+JID-262,CID-166,Mumbai,Associate,DID-1460
+JID-263,CID-166,Mumbai,Associate,DID-143
+JID-264,CID-166,Hyderabad,Marketing Manager,DID-143
+JID-265,CID-167,Gurgaon,Global HR Coordinator,DID-143
+JID-266,CID-168,Bangalore,UI Developer,DID-143
+JID-267,CID-169,Bangalore,Associate - Business Development,DID-1416
+JID-268,CID-169,Bangalore,Senior Analyst - Business Operations,DID-1461
+JID-269,CID-170,Baddi,Officer - Store,DID-143
+JID-270,CID-171,Imamganj,Assistente Comercial,DID-143
+JID-271,CID-172,Bangalore,News Reporter (Bangalore & Delhi),DID-1462
+JID-272,CID-173,Bangalore,Relationship Officer,DID-143
+JID-273,CID-174,Kalyanpur,Social Media,DID-144
+JID-274,CID-175,Kalyanpur,Gerente Comercial De Filial,DID-1122
+JID-275,CID-176,Chennai,Hr and Administration Executive-Female,DID-1163
+JID-276,CID-177,Bangalore,Global Category Manager,DID-113
+JID-277,CID-178,Bangalore,Social Impact Executive,DID-1135
+JID-278,CID-179,Bangalore,Data Analyst (Remote),DID-113
+JID-279,CID-180,Bangalore,Business Development Representative,DID-1164
+JID-280,CID-180,Bangalore,Software Engineering - Backend (SMTS),DID-1114
+JID-281,CID-181,Gurgaon,Ecommerce Manager,DID-113
+JID-282,CID-182,Bangalore,Associate Developer-NodeJS/GO/Kubernetes,DID-1165
+JID-283,CID-183,Ankleshwar,QC Chemist,DID-114
+JID-284,CID-183,Ahmedabad,Security Officer,DID-113
+JID-285,CID-183,Bharuch,Shift Incharge,DID-163
+JID-286,CID-184,Gurgaon,Project Engineer,DID-1635
+JID-287,CID-185,Bangalore,Offer Marketing,DID-163
+JID-288,CID-186,Bangalore,Junior Software Engineer,DID-163
+JID-289,CID-187,Bangalore,SDE-I (Backend),DID-563
+JID-290,CID-188,Bangalore,Customer Success Manager,DID-1666
+JID-291,CID-189,Bangalore,Senior UI Developer,DID-163
+JID-292,CID-189,Bangalore,UI Developer,DID-163
+JID-293,CID-190,Bangalore,Data Analyst,DID-563
+JID-294,CID-191,Bangalore ,Data Annotation Analyst,DID-5667
+JID-295,CID-192,Bangalore,Data Analyst,DID-563
+JID-296,CID-193,Bangalore,Data Analyst,DID-363
+JID-297,CID-194,Mumbai,PR and Communications Intern,DID-363
+JID-298,CID-194,Mumbai,Social Media Intern,DID-363
+JID-299,CID-195,Bangalore,Software Engineer (Front-End),DID-563
+JID-300,CID-196,Kalyanpur,Auxiliar de Limpeza Clnica Odontolgica,DID-563
+JID-301,CID-197,Chennai,"Associate Vice President, Group AML CDD Tax Retail Clients",DID-1320
+JID-302,CID-198,Delhi,Shift Supervisor,DID-1335
+JID-303,CID-199,Mumbai,Business Process Mapping - Assistant Manager,DID-138
+JID-304,CID-199,Bangalore,Business Process Mapping – Assistant Manager,DID-135
+JID-305,CID-199,Bangalore,Financial Reporting - Associate 2,DID-1335
+JID-306,CID-200,Bangalore,Frontend Developer,DID-133
+JID-307,CID-201,Gurgaon,Sunstone Eduversity - Assistant Manager - Indirect Taxation,DID-1320
+JID-308,CID-202,Pune,Sales Manager I,DID-133
+JID-309,CID-203,Bangalore,Data Analyst,DID-1338
+JID-310,CID-204,Bangalore,Associate Planner-3,DID-1313
+JID-311,CID-204,Bangalore,Data Analyst,DID-133
+JID-312,CID-204,Bangalore,Item Data Analyst,DID-133
+JID-313,CID-205,Bangalore,Data Analyst,DID-133
+JID-314,CID-206,Bangalore,Data Analyst(Bangalore).....,DID-133
+JID-315,CID-207,Kolkata,Business Incubation Manager- Urban Infrastructure - Frame,DID-133
+JID-316,CID-208,Mumbai,Tata Trusts - Assistant Manager - Strategy,DID-1323
+JID-317,CID-208,New Delhi,Tata Trusts - Manager - Strategy,DID-1314
+JID-318,CID-209,Bangalore,Data Analyst,DID-133
+JID-319,CID-210,Gurgaon,Costa Coffee India Brand Manager,DID-133
+JID-320,CID-211,Mumbai ,Brand Manager - Marketing,DID-133
+JID-321,CID-211,Mumbai ,Sr Mgr Marketing,DID-2368
+JID-322,CID-212,Mumbai,Quality Analyst - Manual Testing,DID-133
+JID-323,CID-213,Indore,Chief Security Officer,DID-1331
+JID-324,CID-214,Bangalore,Assistant Manager - Marketing & Communications,DID-1369
+JID-325,CID-215,Mumbai,"Assistant Manager - Marketing, Disney+ Hotstar",DID-133
+JID-326,CID-215,Mumbai,Assistant Manager- Digital Marketing,DID-133
+JID-327,CID-216,Bangalore,Senior Software Engineer - Frontend,DID-133
+JID-328,CID-217,Mumbai,Assistant Manager- UX/UI Designer,DID-133
+JID-329,CID-218,Pune,Intern,DID-1342
+JID-330,CID-219,Mumbai,Consultant: Communications Manager,DID-133
+JID-331,CID-220,Kalyanpur,Analista de Negcios e Sistemas Jr.,DID-133
+JID-332,CID-221,Gurgaon,Social Media Manager,DID-1370
+JID-333,CID-222,Gurgaon,Brand Manager,DID-133
+JID-334,CID-223,Bangalore,Associate I - Data Analysis,DID-133
+JID-335,CID-224,Lanjigarh,deputy head -logistics,DID-137
+JID-336,CID-225,Bangalore,Data Analyst,DID-133
+JID-337,CID-226,Mumbai ,Assistant Manager/Manager - Social Media (Voot),DID-133
+JID-338,CID-227,Bangalore,SF Test Engineer,DID-1371
+JID-339,CID-228,Bangalore,Software Engineer - UI,DID-133
+JID-340,CID-229,Bangalore,Staff Data Analyst,DID-133
+JID-341,CID-229,Bangalore,Staff Software Engineer - Front End,DID-133
+JID-342,CID-230,Gurgaon,Front Office Associate,DID-133
+JID-343,CID-231,Gurgaon,Associate,DID-2370
+JID-344,CID-231,Mumbai,Associate,DID-133
+JID-345,CID-231,Pune,Associate,DID-133
+JID-346,CID-231,Pune,Associate / Officer / Senior Officer,DID-1352
+JID-347,CID-231,Gurgaon,Customer Service Representative,DID-1354
+JID-348,CID-231,Noida,Customer Service Representative,DID-133
+JID-349,CID-231,Bangalore,Data Analyst,DID-133
+JID-350,CID-231,Gurgaon,Marketing Manager,DID-133
+JID-351,CID-232,Bangalore,Frontend Developer,DID-133
+JID-352,CID-233,Jamshedpur,Student/Fresher,DID-133
+JID-353,CID-234,Bangalore,Brand Marketing,DID-133
+JID-354,CID-234,Bangalore,Category Manager,DID-1368
+JID-355,CID-234,Bangalore,Product Marketing,DID-1372
+JID-356,CID-234,Gurgaon,Sales Planner,DID-133
+JID-357,CID-235,Bangalore,Junior Research Executive,DID-1323
+JID-358,CID-235,Bangalore,Research Executive,DID-134
+JID-359,CID-236,Mumbai,Category Manager,DID-1373
+JID-360,CID-237,Bangalore,Frontend Developer (Bangalore),DID-153
