@@ -1,5 +1,4 @@
 # Job-Analytics-
-# Job Analytics
 
 This project is designed to scrape job data from the professional networking platform LinkedIn and analyze it to provide insights into job distribution, company details, and industry trends. It utilizes web scraping techniques with Python libraries such as BeautifulSoup and Selenium.
 
